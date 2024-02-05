@@ -179,6 +179,7 @@ header {
 }
 
 .logo_anchor {
+    cursor: pointer;
     align-items: center;
     padding-left: 40px;
     padding-right: 40px;
